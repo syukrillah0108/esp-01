@@ -1,0 +1,120 @@
+<!-- Design by Lights Thing © 2022. Todos los derechos reservados -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1310" viewBox="0 0 1200 1310">
+  <g>
+    <rect width="400" height="700" transform="translate(402)" fill="#241f1c"/>
+    <rect width="45" height="45" transform="translate(492 570)" fill="#e6e6e6"/>
+    <rect width="45" height="45" transform="translate(667 570)" fill="#e6e6e6"/>
+    <circle cx="20" cy="20" r="20" transform="translate(552 572)" fill="#e6e6e6"/>
+    <circle cx="20" cy="20" r="20" transform="translate(552 635)" fill="#e6e6e6"/>
+    <circle cx="20" cy="20" r="20" transform="translate(612 635)" fill="#e6e6e6"/>
+    <circle cx="20" cy="20" r="20" transform="translate(672 635)" fill="#e6e6e6"/>
+    <circle cx="20" cy="20" r="20" transform="translate(492 635)" fill="#e6e6e6"/>
+    <circle cx="20" cy="20" r="20" transform="translate(612 572)" fill="#e6e6e6"/>
+    <path d="M0,205V10A10,10,0,0,1,10,0H43A10,10,0,0,1,53,10v93H66V10A10,10,0,0,1,76,0h33a10,10,0,0,1,10,10v93h13V10A10,10,0,0,1,142,0h33a10,10,0,0,1,10,10v93h13V10A10,10,0,0,1,208,0H314a10,10,0,0,1,0,20H218v93a10,10,0,0,1-10,10H175a10,10,0,0,1-10-10V20H152v93a10,10,0,0,1-10,10H109a10,10,0,0,1-10-10V20H86v93a10,10,0,0,1-10,10H43a10,10,0,0,1-10-10V20H20V162H208a10,10,0,0,1,0,20H20v23a10,10,0,1,1-20,0Z" transform="translate(439 32)" fill="#d4a423"/>
+    <line y2="180" transform="translate(479.5 321)" fill="none" stroke="#d8d9dc" stroke-width="10"/>
+    <line y2="180" transform="translate(494.5 321)" fill="none" stroke="#d8d9dc" stroke-width="10"/>
+    <line y2="180" transform="translate(509.5 321)" fill="none" stroke="#d8d9dc" stroke-width="10"/>
+    <line y2="180" transform="translate(524.5 320.5)" fill="none" stroke="#d8d9dc" stroke-width="10"/>
+    <line y2="180" transform="translate(539.5 320.5)" fill="none" stroke="#d8d9dc" stroke-width="10"/>
+    <line y2="180" transform="translate(554.5 321)" fill="none" stroke="#d8d9dc" stroke-width="10"/>
+    <line y2="180" transform="translate(569.5 320.5)" fill="none" stroke="#d8d9dc" stroke-width="10"/>
+    <line y2="180" transform="translate(584.5 320.5)" fill="none" stroke="#d8d9dc" stroke-width="10"/>
+    <line x2="168" transform="translate(447.5 358.5)" fill="none" stroke="#d8d9dc" stroke-width="10"/>
+    <line x2="168" transform="translate(447.5 373.5)" fill="none" stroke="#d8d9dc" stroke-width="10"/>
+    <line x2="168" transform="translate(447.5 388.5)" fill="none" stroke="#d8d9dc" stroke-width="10"/>
+    <line x2="168" transform="translate(447.5 403.5)" fill="none" stroke="#d8d9dc" stroke-width="10"/>
+    <line x2="168" transform="translate(447.5 418.5)" fill="none" stroke="#d8d9dc" stroke-width="10"/>
+    <line x2="168" transform="translate(447.5 433.5)" fill="none" stroke="#d8d9dc" stroke-width="10"/>
+    <line x2="168" transform="translate(447.5 448.5)" fill="none" stroke="#d8d9dc" stroke-width="10"/>
+    <line x2="168" transform="translate(447.5 463.5)" fill="none" stroke="#d8d9dc" stroke-width="10"/>
+    <rect width="135" height="135" transform="translate(464 343)" fill="#333"/>
+    <line y2="192" transform="translate(658.5 313.5)" fill="none" stroke="#d8d9dc" stroke-width="20"/>
+    <line y2="192" transform="translate(692.5 313.5)" fill="none" stroke="#d8d9dc" stroke-width="20"/>
+    <line y2="192" transform="translate(726.5 313.5)" fill="none" stroke="#d8d9dc" stroke-width="20"/>
+    <line y2="192" transform="translate(760.5 313.5)" fill="none" stroke="#d8d9dc" stroke-width="20"/>
+    <rect width="141" height="108" transform="translate(639 355)" fill="#303030"/>
+    <rect x="1.5" y="1.5" width="75" height="54" transform="translate(529 230)" stroke="#fdc325" stroke-width="3" fill="#d8d9dc"/>
+    <rect width="20" height="40" transform="translate(419.5 391)" fill="#8c8c8c"/>
+    <rect width="20" height="40" transform="translate(439 224)" fill="#bec0c2"/>
+    <rect width="20" height="40" transform="translate(765 192)" fill="#8c8c8c"/>
+    <rect width="20" height="40" transform="translate(673 193)" fill="#8c8c8c"/>
+    <rect width="20" height="26" transform="translate(419.5 398)" fill="#fdc325"/>
+    <rect width="20" height="26" transform="translate(439 232)" fill="#303030"/>
+    <rect width="20" height="26" transform="translate(765 200)" fill="#fdc325"/>
+    <rect width="20" height="26" transform="translate(673 201)" fill="#fdc325"/>
+    <rect width="16" height="38" transform="translate(705 194)" fill="#8c8c8c"/>
+    <rect width="16" height="38" transform="translate(737 193)" fill="#8c8c8c"/>
+    <rect width="22" height="26" transform="translate(702 200)" fill="#303030"/>
+    <rect width="22" height="26" transform="translate(734 199)" fill="#303030"/>
+    <rect width="40" height="18" transform="translate(479 250)" fill="#8c8c8c"/>
+    <rect width="40" height="18" transform="translate(617 250)" fill="#8c8c8c"/>
+    <rect width="20" height="18" transform="translate(489 250)" fill="#fdc325"/>
+    <rect width="20" height="18" transform="translate(627 250)" fill="#fdc325"/>
+    <circle cx="30" cy="30" r="30" transform="translate(502 358)" fill="none"/>
+    <path d="M50.82,8.394a26.835,26.835,0,0,1,14.2,7.465,27.281,27.281,0,0,1,7.263,13.218c-.013-.061.042.178.094.419" transform="matrix(0.999, 0.035, -0.035, 0.999, 487.134, 345.541)" fill="none" stroke="#66624b" stroke-linecap="round" stroke-width="5"/>
+    <path d="M52.557,7.3c.574-.032,1.145-.047,1.7-.047a29.975,29.975,0,0,1,30,30" transform="matrix(0.998, 0.07, -0.07, 0.998, 470.207, 350.573)" fill="none" stroke="#66624b" stroke-linecap="round" stroke-width="6"/>
+    <path d="M54.3,3.691a24.98,24.98,0,0,1,25,25,25.865,25.865,0,0,1-.537,5.182" transform="matrix(0.998, 0.07, -0.07, 0.998, 465.166, 363.847)" fill="none" stroke="#66624b" stroke-linecap="round" stroke-width="6"/>
+    <path d="M48-1.654A5.919,5.919,0,0,0,43,1.959c-1.334,3.442-.384,6.466,2.024,8.316s7.578-.246,8.465.205a20.13,20.13,0,0,1,4.927,3.647A19.87,19.87,0,0,1,64.27,28.27" transform="translate(471.257 365.466) rotate(9)" fill="none" stroke="#66624b" stroke-linecap="round" stroke-width="6"/>
+    <circle cx="4.5" cy="4.5" r="4.5" transform="translate(513 391)" fill="#66624b"/>
+    <path d="M48.708,8.7A31,31,0,0,1,93.03,52.012" transform="translate(604.708 411.012) rotate(180)" fill="none" stroke="#66624b" stroke-linecap="round" stroke-width="2"/>
+    <circle cx="4.5" cy="4.5" r="4.5" transform="translate(477 356)" fill="#66624b"/>
+    <text transform="translate(491 430)" fill="#66624b" font-size="15.5" font-family="sans-serif" font-weight="500">ESP8266EX</text>
+    <text transform="translate(506 446)" fill="#66624b" font-size="15.5" font-family="sans-serif" font-weight="500">272020</text>
+    <text transform="translate(502 463)" fill="#66624b" font-size="15.5" font-family="sans-serif" font-weight="500">PCeIV54</text>
+    <text transform="translate(657 387)" fill="#66624b" font-size="18" font-family="sans-serif" font-weight="500">1518</text>
+    <text transform="translate(657 415)" fill="#66624b" font-size="18" font-family="sans-serif" font-weight="500">25080ASS16</text>
+    <text transform="translate(657 443)" fill="#66624b" font-size="18" font-family="sans-serif" font-weight="500">BergMicro</text>
+    <rect width="20" height="20" rx="4" transform="translate(505 582)" fill="#bec0c8"/>
+    <rect width="20" height="20" rx="4" transform="translate(502 645)" fill="#bec0c8"/>
+    <rect width="20" height="20" rx="4" transform="translate(562 645)" fill="#bec0c8"/>
+    <rect width="20" height="20" rx="4" transform="translate(622 645)" fill="#bec0c8"/>
+    <rect width="20" height="20" rx="4" transform="translate(682 645)" fill="#bec0c8"/>
+    <rect width="20" height="20" rx="4" transform="translate(562 582)" fill="#bec0c8"/>
+    <rect width="20" height="20" rx="4" transform="translate(622 582)" fill="#bec0c8"/>
+    <rect width="20" height="20" rx="4" transform="translate(680 582)" fill="#bec0c8"/>
+    <path d="M25.542,229.521V121.562l10,10v87.958l-10,10Z" transform="translate(613.458 233.458)" fill="#1f1f1f"/>
+    <path d="M164.811,115.3H43.794l-10-10,141,0v.013l-9.987,9.987Z" transform="translate(605.201 249.701)" fill="#3d3d3d"/>
+    <path d="M164.811,115.3H43.794l-10-10,141,0v.013l-9.987,9.987Z" transform="translate(813.799 568.299) rotate(180)"/>
+    <path d="M25.542,229.521V121.562l10,10v87.958l-10,10Z" transform="translate(805.542 584.521) rotate(180)" fill="#1f1f1f"/>
+    <line x2="3.25" y2="510.5" transform="translate(500 725.5)" fill="none" stroke="#214f62" stroke-width="6"/>
+    <line y2="341" transform="translate(562.5 726)" fill="none" stroke="#214f62" stroke-width="6"/>
+    <line x1="0.75" y2="154.5" transform="translate(634.25 725.5)" fill="none" stroke="#214f62" stroke-width="6"/>
+    <line x2="0.25" y2="166.5" transform="translate(701 725.5)" fill="none" stroke="#214f62" stroke-width="6"/>
+    <rect x="1.5" y="1.5" width="52" height="147" rx="8.5" transform="translate(472.25 798)" stroke="#296472" stroke-width="3" fill="#fdffce"/>
+    <rect x="1.5" y="1.5" width="52" height="147" rx="8.5" transform="translate(539.75 798)" stroke="#296472" stroke-width="3" fill="#fdffce"/>
+    <rect x="1.5" y="1.5" width="52" height="147" rx="8.5" transform="translate(606.75 798)" stroke="#296472" stroke-width="3" fill="#add5f1"/>
+    <rect x="1.5" y="1.5" width="52" height="147" rx="8.5" transform="translate(673.75 798)" stroke="#296472" stroke-width="3" fill="#c82037"/>
+    <rect x="1.5" y="1.5" width="52" height="147" rx="8.5" transform="translate(472.75 981)" stroke="#296472" stroke-width="3" fill="#8ed054"/>
+    <rect x="1.5" y="1.5" width="52" height="147" rx="8.5" transform="translate(472.75 1160)" stroke="#296472" stroke-width="3" fill="#9634fe"/>
+    <rect x="1.5" y="1.5" width="52" height="147" rx="8.5" transform="translate(540.75 981)" stroke="#296472" stroke-width="3" fill="#8ed054"/>
+    <text transform="translate(488.75 814) rotate(90)" font-size="30" font-family="sans-serif" font-weight="500">GPIO1</text>
+    <text transform="translate(488.75 1000) rotate(90)" font-size="30" font-family="sans-serif" font-weight="500">U0TXD</text>
+    <text transform="translate(488.75 1175) rotate(90)" font-size="30" font-family="sans-serif" font-weight="500">SPLCST</text>
+    <text transform="translate(556.25 1000) rotate(90)" font-size="30" font-family="sans-serif" font-weight="500">CH_PD</text>
+    <text transform="translate(557.25 814) rotate(90)" font-size="30" font-family="sans-serif" font-weight="500">CH_EN</text>
+    <text transform="translate(624.25 814) rotate(90)" font-size="30" font-family="sans-serif" font-weight="500">RST</text>
+    <text transform="translate(690.25 814) rotate(90)" fill="#fff" font-size="30" font-family="sans-serif" font-weight="500">VCC</text>
+    <line x1="83" transform="translate(295 600.5)" fill="none" stroke="#214f62" stroke-width="6"/>
+    <path d="M451.305,143.547,413.758,106H17a3,3,0,0,1,0-6H415a2.992,2.992,0,0,1,2.238,1q.064.057.126.119L455.548,139.3a3,3,0,1,1-4.243,4.243Z" transform="translate(100.5 424)" fill="#214f62"/>
+    <rect x="1.5" y="1.5" width="147" height="52" rx="8.5" transform="translate(186 498)" stroke="#296472" stroke-width="3" fill="#fdffce"/>
+    <g transform="translate(186 573)" stroke="#296472" stroke-width="3">
+      <rect width="150" height="55" rx="10" stroke="none"/>
+      <rect x="1.5" y="1.5" width="147" height="52" rx="8.5" fill="none"/>
+    </g>
+    <rect x="1.5" y="1.5" width="147" height="52" rx="8.5" transform="translate(0 497.5)" stroke="#296472" stroke-width="3" fill="#8ed054"/>
+    <text transform="translate(200 537)" font-size="30" font-family="sans-serif" font-weight="500">GPIO2</text>
+    <text transform="translate(200 612)" fill="#fff" font-size="30" font-family="sans-serif" font-weight="500">GND</text>
+    <text transform="translate(11 536.5)" font-size="30" font-family="sans-serif" font-weight="500">U1TXD</text>
+    <line x1="368" y2="1" transform="translate(829 600.5)" fill="none" stroke="#214f62" stroke-width="6"/>
+    <path d="M15.452,143.547a3,3,0,0,1,0-4.243l38.184-38.183a2.989,2.989,0,0,1,2.178-.878A2.99,2.99,0,0,1,57,100H477a3,3,0,0,1,0,6H57.243L19.695,143.547a3,3,0,0,1-4.243,0Z" transform="translate(629.5 424)" fill="#214f62"/>
+    <rect x="1.5" y="1.5" width="147" height="52" rx="8.5" transform="translate(864 498)" stroke="#296472" stroke-width="3" fill="#fdffce"/>
+    <rect x="1.5" y="1.5" width="147" height="52" rx="8.5" transform="translate(864 573)" stroke="#296472" stroke-width="3" fill="#fdffce"/>
+    <rect x="1.5" y="1.5" width="147" height="52" rx="8.5" transform="translate(1050 498)" stroke="#296472" stroke-width="3" fill="#8ed054"/>
+    <rect x="1.5" y="1.5" width="147" height="52" rx="8.5" transform="translate(1050 573)" stroke="#296472" stroke-width="3" fill="#8ed054"/>
+    <text transform="translate(878 537)" font-size="30" font-family="sans-serif" font-weight="500">GPIO0</text>
+    <text transform="translate(878 612)" font-size="30" font-family="sans-serif" font-weight="500">GPIO3</text>
+    <text transform="translate(1061 537)" font-size="30" font-family="sans-serif" font-weight="500">SPL_CS2</text>
+    <text transform="translate(1076 612)" font-size="30" font-family="sans-serif" font-weight="500">U0RXD</text>
+    <line x2="36" transform="translate(1014.5 524)" fill="none" stroke="#707070" stroke-width="1"/>
+  </g>
+</svg>
